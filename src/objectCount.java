@@ -10,7 +10,7 @@ class MyClass {
     }
 }
 
-public class objectCount {
+public class ObjectCount {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
