@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Box class
-class Box {
+ class DemoBox {
     double length, width, height;
 
     // method to calculate volume
